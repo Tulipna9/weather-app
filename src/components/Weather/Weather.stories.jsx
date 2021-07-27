@@ -7,4 +7,6 @@ export default{
     Component: Weather
 }
 
-export const WeatherExample = () => <Weather temperature={10}></Weather>
+export const WeatherExample = () => <Weather temperature={10} state="claud"></Weather>
+
+export const WeatherExample = () => <Weather temperature={10} state="claud"></Weather>
